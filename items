@@ -1,0 +1,102 @@
+[
+  {
+    "_id": {
+      "$oid": "646c9cd82a80c39a7e22da9b"
+    },
+    "name": "Test Item",
+    "description": "Test item description",
+    "price": "10.99",
+    "category": "Test Category",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1684839640323"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1684839640323"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "646c9f7929746d9d28d9e265"
+    },
+    "name": "Test Item",
+    "description": "Test item description",
+    "price": "10.99",
+    "category": "Test Category",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1684840313139"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1684840313139"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "646cadca1e1357c36438b2a4"
+    },
+    "name": "Test Item",
+    "description": "Test item description",
+    "price": "10.99",
+    "category": "Test Category",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1684843978380"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1684843978380"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "646cb1043f3ed4d6cc520851"
+    },
+    "name": "Test Item",
+    "description": "Test item description",
+    "price": "10.99",
+    "category": "Test Category",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1684844804389"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1684844804389"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "646cb24d1be731ae3954ee35"
+    },
+    "name": "Test Item",
+    "description": "Test item description",
+    "price": "10.99",
+    "category": "Test Category",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1684845133465"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1684845133465"
+      }
+    },
+    "__v": 0
+  }
+]
